@@ -1,0 +1,68 @@
+@media screen and (max-width: 980px){
+.mainmenu ul li span {
+    font-size: 12px;
+    margin-left: 10px;
+}
+.searchheader input {
+    background: url(../img/search.png) no-repeat scroll 139px center;
+    background-color: #ddd;
+}
+.bannerleft h4 {
+    margin-left: 12px;
+}
+.bannerleft p {
+    margin-left: 10px;
+}}
+
+@media screen and (max-width: 767px){
+.searchheader input {
+    background: url(../img/search.png) no-repeat scroll 171px center;
+    background-color: #ddd;
+}
+.bottomtext h2 {
+    font-size: 20px;
+    text-align: center;
+}
+.samewrapper {
+    margin-bottom: 37px;
+}
+.bannersection{
+	text-align: center;
+}}
+
+@media screen and (max-width: 576px){
+.contactsection {
+    text-align: center;
+}
+.contact {
+    margin-bottom: 30px;
+}
+.searchheader input {
+    background: url(../img/search.png) no-repeat scroll 250px center;
+        background-color: rgba(0, 0, 0, 0);
+    background-color: #ddd;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
